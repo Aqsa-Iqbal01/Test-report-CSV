@@ -1,0 +1,8 @@
+Test ID case,Test Case Description ,Expected Result,Actual Result,Status,Remarks
+TC001,Validate Homepage rendering,Check Homepage renders correctly with Hero and Footer,Homepage rendered as expected,passed,Core functionality verified
+TC002,Test Dynamic Car details ,The details page loads with accurate car info,Details page is working as expected,passed,Dynamic routing functional
+TC003,Test Responsiveness on Mobile,The layout adapts to smaller screens,Responsive layout verified Passed,passed,Works on mobile screens
+TC004,Verify Tailwind CSS Integration,Tailwind classes applied correctly,Tailwind functional,passed,Verified styling
+TC005,Car Display Test,All cars should be displayed correctly on the homepage,All cars are displayed correctly,passed,Showing Correctly
+TC006,Image Loading Test,All car images should load correctly,All car images loaded without issues,passed,Working Properly
+TC007,Responsiveness Test,The site should adjust properly on various devices,The site adjusted properly on all tested devices,passed,Displayed Properly
